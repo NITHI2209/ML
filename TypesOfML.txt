@@ -1,0 +1,16 @@
+Types of ML:
+1)Supervised learning -> This model works with the presence of target variable(the variable that needs to be predicted)
+2)Unsupervised learning -> This model works without the presence of target variable (EX:clustering)
+3)Rwinforcement Learning -> This model automatically adjust the prediction based on data distribution(EX:Self driving car)
+
+Supervised Learning is classified into 2
+1)Classification model (where the target variable is categorical)
+2)Regression model (where the target variable is continous numerical)
+
+Regression Types
+1)Linear Regression(Straight line)
+2)Logistic Regression (classfication model)(S curve)
+
+Linear Regression model is again classified int0:
+1)Simple linear Regression(where 1 dependent and only one independent variable)
+2)Multiple Regression(Where 1 dependent and multiple independent variable)
